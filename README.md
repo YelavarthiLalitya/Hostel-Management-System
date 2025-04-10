@@ -33,8 +33,6 @@ This backend powers key features like complaint booking, sick food requests, and
 ---
 
 
----
-
 ## Database Tables Used
 
 - `user_mst` – stores user accounts and roles  
