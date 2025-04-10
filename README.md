@@ -67,7 +67,6 @@ This backend powers key features like complaint booking, sick food requests, and
 - This is a backend-only setup.
 - Passwords are stored as plain text (for now).
 - No email or notification system included.
-- Room allocation is **not** part of this version.
 
 ---
 
